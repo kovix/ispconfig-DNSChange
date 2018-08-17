@@ -22,3 +22,4 @@ Feel free to drop me a message at info@kovix.info
 
 ##Warranty, License, etc
 Absolutley no warranty, use at your own risk, feel free to modify! (And credit original code, please!)
+It is just working for me, I can't guarantee it will work for you.
